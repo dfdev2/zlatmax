@@ -1,9 +1,0 @@
-git branch -m main zlatmax\
-git fetch origin\
-git branch -u origin/zlatmax zlatmax\
-git remote set-head origin -a
-https://github.com/dfdev2/zlatmax.git\
-
-git config user.name 'farrukh' открытие имени пользователя
-git config user.email 'dfdev2@gmail.com'
-git remote add origin https://github.com/dfdev2/zlatmax.git
